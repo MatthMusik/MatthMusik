@@ -1,16 +1,17 @@
-## Hi there 👋
+# ¡Hola! Soy MatthMusik 👋
 
-<!--
-**MatthMusik/MatthMusik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎶 Desarrollador y entusiasta de la música
+Me apasiona crear soluciones que mezclen el código con la creatividad.
 
-Here are some ideas to get you started:
+- 🔭 Actualmente estoy trabajando en: [Tu proyecto actual]
+- 🌱 Estoy aprendiendo: [Tecnología que estés estudiando]
+- 💬 Pregúntame sobre: Producción musical o desarrollo web
+- 📫 Cómo contactarme: [Tu correo o LinkedIn]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías que utilizo
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### 📈 Mis Estadísticas
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=MatthMusik&show_icons=true&theme=radical)
