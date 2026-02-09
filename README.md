@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner2.png" width="100%">
+  <img src="banner2.jpg" width="100%">
 </p>
 
 # ¡Hola! Soy MatthMusik 👋
