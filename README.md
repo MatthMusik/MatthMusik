@@ -1,28 +1,41 @@
 <p align="center">
-  <img src="banner2.jpg" width="100%">
+  <img src="banner.jpg" width="100%">
 </p>
 
 # ¡Hola! Soy MatthMusik 👋
 
 ### 🎶 Estudiante de Programación & Techno Producer
-Me apasiona el mundo del código y cómo la tecnología se mezcla con la música.
+> "Mixing code and techno beats to build creative solutions."
 
-- 🔭 Actualmente enfocado en: Fortalecer mis bases en algoritmos y lógica.
-- 🌱 Estoy aprendiendo: Java y Python.
-- 💬 Pregúntame sobre: Música techno, producción o mis primeros pasos en dev.
-- 📫 Cómo contactarme: mateoduque92@gmail.com
+---
+
+### 💻 Sobre mí
+- 🔭 **Enfoque actual:** Fortalecer mis bases en algoritmos y lógica de programación.
+- 🌱 **Aprendiendo:** Java y Python.
+- 💬 **Hablemos de:** Producción musical, sintetizadores o desarrollo backend.
+- 📫 **Contacto:** mateoduque92@gmail.com
+
+---
 
 ### 🛠️ Tecnologías que estoy dominando
-![Java](https://img.shields.io/badge/java-%23000000.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-%23000000.svg?style=for-the-badge&logo=python&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+---
 
 ### 📈 Mis Estadísticas de GitHub
-![Estadísticas de MatthMusik](https://github-readme-stats.vercel.app/api?username=MatthMusik&show_icons=true&theme=dark&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MatthMusik&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" width="450" />
+</p>
 
-### 🎧 Escucha lo que estoy codeando
+---
+
+### 🎧 Escucha mi música
 <p align="left">
 <a href="https://open.spotify.com/intl-es/artist/21UEr9NBwS8YySmNuIi3dI?si=tDG9ip62RNmP3irm8nkesQ" target="_blank">
-  <img src="https://novatorem-spotify-readme.vercel.app/api/now-playing?status=true&user=12148154694" alt="Spotify" />
+  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
 </a>
 </p>
 
