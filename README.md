@@ -1,12 +1,11 @@
 # ¡Hola! Soy MatthMusik 👋
 
-### 🎶 Desarrollador y entusiasta de la música
+### Desarrollador y Productor músical
 Me apasiona crear soluciones que mezclen el código con la creatividad.
 
-- 🔭 Actualmente estoy trabajando en: [Tu proyecto actual]
-- 🌱 Estoy aprendiendo: [Tecnología que estés estudiando]
-- 💬 Pregúntame sobre: Producción musical o desarrollo web
-- 📫 Cómo contactarme: [Tu correo o LinkedIn]
+- 🔭 Actualmente estoy Estudiando : Ing.Sistemas
+- 🌱 Estoy aprendiendo: Java & Python
+- 💬 Pregúntame sobre: Producción musical 
 
 ### 🛠️ Tecnologías que utilizo
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
