@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.jpg" width="100%">
+  <img src="banner2.jpg" width="100%">
 </p>
 
 # ¡Hola! Soy MatthMusik 👋
@@ -27,7 +27,7 @@
 
 ### 📈 Mis Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatthMusik&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" width="450" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatthMusik&theme=dark&hide_border=true&background=000000" width="450" />
 </p>
 
 ---
