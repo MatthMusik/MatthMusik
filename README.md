@@ -1,16 +1,16 @@
 # ¡Hola! Soy MatthMusik 👋
 
-### Desarrollador y Productor músical
-Me apasiona crear soluciones que mezclen el código con la creatividad.
+### Estudiante de Programación & Techno Producer
+Me apasiona el mundo del código y cómo la tecnología se mezcla con la música.
 
-- 🔭 Actualmente estoy Estudiando : Ing.Sistemas
-- 🌱 Estoy aprendiendo: Java & Python
-- 💬 Pregúntame sobre: Producción musical 
+- 🔭 Actualmente estoy enfocado en: Fortalecer mis bases en algoritmos y lógica.
+- 🌱 Estoy aprendiendo: Java y Python.
+- 💬 Pregúntame sobre: Música techno, producción o mis primeros pasos en dev.
+- 📫 Cómo contactarme: mateoduque92@gmail.com
 
-### 🛠️ Tecnologías que utilizo
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+### 🛠️ Tecnologías que estoy dominando
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-### 📈 Mis Estadísticas
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=MatthMusik&show_icons=true&theme=radical)
+### 📈 Mis Estadísticas de GitHub
+![Estadísticas de MatthMusik](https://github-readme-stats.vercel.app/api?username=MatthMusik&show_icons=true&theme=radical&hide_border=true)
